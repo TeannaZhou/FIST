@@ -1,3 +1,5 @@
+﻿cpu运行
+
 1. 测试
 在终端Terminal执行
 python main.py    # 默认执行test任务，test样本为默认video，在显示画面按q键结束test, 'Negative' 手背朝前, 'Positive' 手心朝前
