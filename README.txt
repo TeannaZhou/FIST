@@ -2,7 +2,7 @@
 
 1. 测试
 在终端Terminal执行
-python main.py    # 默认执行test任务，test样本为默认video，在显示画面按q键结束test, 'Negative' 手背朝前, 'Positive' 手心朝前
+python main.py    # 默认执行test任务，test样本为默认video, 'Negative' 手背朝前, 'Positive' 手心朝前
 or
 python main.py --test_type=1   # 执行test任务， test样本为默认图片， 检测结果打印在图片上保存在当前目录下
 or
